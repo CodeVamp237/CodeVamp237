@@ -1,16 +1,22 @@
 ## Hi there 👋
 
 <!--
-**CodeVamp237/CodeVamp237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm ✨ _CodeVamp237_ ✨ 
+I'm a second year undergrad student. Welcome to my Github!
 
-Here are some ideas to get you started:
+- 🔭 Some of my current interests are:
+      Data Structures and Algorithms
+      Competitive programming
+      AI for sustainability and health
+      Game Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about:
+      Java and Python programming 
+      Web frameworks
+      
+- 📫 How to reach me: 
+      Through my email
+      
+- ⚡ Fun fact: 
+      I love to sing, doesn't matter if I.m happy or sad :)
 -->
